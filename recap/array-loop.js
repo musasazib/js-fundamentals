@@ -1,6 +1,6 @@
 var number = [45, 86, 65, 86, 64, 54];
 for (var i = 0; i < 7; i++) {
-    var element = numbers[i];
+    var element = number[i];
     console.log(element);
 }
 
