@@ -5,7 +5,7 @@ var isFull = false;
 // Array 
 var items = ['Bottle', 'Mug', 'Paper', 'pen', 'Mobile'];
 items.indexOf('logens');  // -1
-// items.push(Watch);
+items.push("Watch");
 items.pop();
 
 // condition 
